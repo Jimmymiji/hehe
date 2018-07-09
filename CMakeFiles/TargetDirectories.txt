@@ -1,0 +1,3 @@
+/home/lu/hehe/CMakeFiles/edit_cache.dir
+/home/lu/hehe/CMakeFiles/rebuild_cache.dir
+/home/lu/hehe/CMakeFiles/haha.dir
